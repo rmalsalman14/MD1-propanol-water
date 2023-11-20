@@ -1,0 +1,25 @@
+propanol+water
+1 C1
+2 H11
+3 C2
+4 H21
+5 C3
+6 H31
+7 OH
+8 HO
+9 OW
+10 HW1
+
+propanol
+1 C1
+2 H11
+3 C2
+4 H21
+5 C3
+6 H31
+7 OH
+8 HO
+
+water
+1 OW
+2 HW1
